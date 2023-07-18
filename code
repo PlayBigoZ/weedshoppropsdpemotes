@@ -1,0 +1,36 @@
+["bongblue"] = {"anim@safehouse@bong", "bong_stage3", "Bong Blue", AnimationOptions =
+    {
+     Prop = 'bigoz_weedshop_prop_bong_blue',
+     PropBone = 18905,
+     PropPlacement = {0.10,-0.25,0.0,95.0,190.0,180.0},
+    }},
+   ["bongcyan"] = {"anim@safehouse@bong", "bong_stage3", "Bong Cyan", AnimationOptions =
+    {
+     Prop = 'bigoz_weedshop_prop_bong_cyan',
+     PropBone = 18905,
+     PropPlacement = {0.10,-0.25,0.0,95.0,190.0,180.0},
+    }},
+    ["bonggreen"] = {"anim@safehouse@bong", "bong_stage3", "Bong Green", AnimationOptions =
+     {
+      Prop = 'bigoz_weedshop_prop_bong_green',
+      PropBone = 18905,
+      PropPlacement = {0.10,-0.25,0.0,95.0,190.0,180.0},
+     }},
+     ["bongorange"] = {"anim@safehouse@bong", "bong_stage3", "Bong Orange", AnimationOptions =
+      {
+       Prop = 'bigoz_weedshop_prop_bong_orange',
+       PropBone = 18905,
+       PropPlacement = {0.10,-0.25,0.0,95.0,190.0,180.0},
+      }},
+      ["bongpink"] = {"anim@safehouse@bong", "bong_stage3", "Bong Pink", AnimationOptions =
+       {
+        Prop = 'bigoz_weedshop_prop_bong_pink',
+        PropBone = 18905,
+        PropPlacement = {0.10,-0.25,0.0,95.0,190.0,180.0},
+       }},
+       ["bongyellow"] = {"anim@safehouse@bong", "bong_stage3", "Bong Yellow", AnimationOptions =
+        {
+         Prop = 'bigoz_weedshop_prop_bong_yellow',
+         PropBone = 18905,
+         PropPlacement = {0.10,-0.25,0.0,95.0,190.0,180.0},
+        }}
